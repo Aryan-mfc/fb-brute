@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: Aryan-Mfc -*-
+# -*- coding: UTF-8 -*-
+ 
  
 import sys
 import mechanize
