@@ -23,3 +23,38 @@ Fast Fb Cracking Tool
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
  
+***
+
+# For Install:
+
+ - git clone https://github.com/Aryan-mfc/fb-brute.git
+ - cd fb-brute
+ - pkg install python
+ - pip install requests
+ - pip install mechanize
+ - pip3 install requests bs4
+ - chmod +x fb-brute.py
+ - python2 fb-brute.py
+
+
+***
+
+# Supported Platforms:
+- [x] Windows
+- [x] Linux
+- [x] Android~**Termux**
+- [x] MacOs
+- [x] **any Os has python(2.x, 3.x) with required modules**
+
+
+# Warning:
+  * this script is only for educational purposes
+  * i am not responsible for your actions.
+
+
+
+
+# That's All :)
+   * This Script Coded By Aryan Mfc
+   * Thanks For Usage
+   * Have A Nice Day...GoodBye :)
