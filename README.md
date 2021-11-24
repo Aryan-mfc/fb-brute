@@ -36,6 +36,8 @@ Fast Fb Cracking Tool
  - chmod +x fb-brute.py
  - python2 fb-brute.py
 
+ - Victim Fb Username Enter Now
+ - passlist File name - Wordlist.txt
 
 ***
 
