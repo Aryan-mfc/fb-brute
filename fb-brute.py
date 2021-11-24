@@ -17,7 +17,7 @@ print "    (__)  (____/    (____/(__\_)\____/ (__) (____) "
  
 print ("-"*58)
 print "  v1.0 coded by https://github.com/Aryan-mfc/fb-brute.git"
-print "Aryan-Mfc")
+print ("Aryan-Mfc")
 
 print ("-"*58)
 print "\n"
