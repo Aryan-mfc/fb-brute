@@ -6,11 +6,6 @@ Fast Fb Cracking Tool
 
 
 
-
-</p>
-<p align="center">
-<a href="#"><img title="fb-brute.py" src=".__src__/pakcrak.png"></a>
-<p align="center">
 <a href="https://github.com/Aryan-Mfc"><img title="Author" src="https://img.shields.io/badge/Author-Aryan--Mfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
